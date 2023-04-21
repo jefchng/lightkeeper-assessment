@@ -1,0 +1,13 @@
+DATE = "date"
+LKID = "lkid"
+TICKER = "ticker"
+NAME = "name"
+ANALYST = "analyst"
+SECTOR = "sector"
+PAL = "pal"
+EXPOSURE = "exposure"
+
+DAILY_TOTAL_PAL = "daily total pal"
+END_OF_DAY_CAP = "end of day capital"
+START_OF_DAY_CAP = "start of day capital"
+RETURN_RATE = "return_rate"
